@@ -1,7 +1,7 @@
 {
-  "name": "@beaker/datignore",
+  "name": "dbrowser-dwebignore",
   "version": "1.0.0",
-  "description": "A module for reading and using .datignore files",
+  "description": "Library for parsing dwebignore files within dBrowser.",
   "main": "index.js",
   "scripts": {
     "test": "ava -s tests.js"
